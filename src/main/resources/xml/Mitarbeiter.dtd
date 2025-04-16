@@ -1,0 +1,12 @@
+<!ELEMENT Mitarbeiterliste (Mitarbeiter*)>
+        <!ATTLIST Mitarbeiterliste version CDATA #REQUIRED>
+
+        <!ELEMENT Mitarbeiter (Mitarbeiternummer, Vorname, Nachname, Strasse, PLZ, Ort, Telefon, Email)>
+        <!ELEMENT Mitarbeiternummer (#PCDATA)>
+        <!ELEMENT Vorname (#PCDATA)>
+        <!ELEMENT Nachname (#PCDATA)>
+        <!ELEMENT Strasse (#PCDATA)>
+        <!ELEMENT PLZ (#PCDATA)>
+        <!ELEMENT Ort (#PCDATA)>
+        <!ELEMENT Telefon (#PCDATA)>
+        <!ELEMENT Email (#PCDATA)>

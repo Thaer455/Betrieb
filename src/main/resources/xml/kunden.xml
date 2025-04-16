@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE Kundenliste SYSTEM "kunden.dtd">
+<Kundenliste xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			 xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance http://www.example.com/schema/ShareEmp.xsd"
+			 version="1.0">
+	<Kunde>
+		<Kundennummer>53559</Kundennummer>
+		<Vorname>Rachel</Vorname>
+		<Nachname>Hubbard</Nachname>
+		<Strasse>7649 Robin Street</Strasse>
+		<PLZ>59514</PLZ>
+		<Ort>Elijahview</Ort>
+		<Telefon>+1-156-948-265</Telefon>
+		<Email>rachel.hubbard@gmail.com</Email>
+		<Branche>Brown LLC</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>94486</Kundennummer>
+		<Vorname>Ruth</Vorname>
+		<Nachname>Williams</Nachname>
+		<Strasse>91195 Kevin Alley Suite 162</Strasse>
+		<PLZ>82880</PLZ>
+		<Ort>Ballardton</Ort>
+		<Telefon>+1-354-921-7841x0195</Telefon>
+		<Email>ruth.williams@yahoo.com</Email>
+		<Branche>Woods-Carson</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>44203</Kundennummer>
+		<Vorname>Justin</Vorname>
+		<Nachname>Graham</Nachname>
+		<Strasse>887 Pena Curve</Strasse>
+		<PLZ>58161</PLZ>
+		<Ort>East David</Ort>
+		<Telefon>+1-789-588-6311</Telefon>
+		<Email>justin.graham@gmail.com</Email>
+		<Branche>Morgan PLC</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>93587</Kundennummer>
+		<Vorname>Monica</Vorname>
+		<Nachname>Smith</Nachname>
+		<Strasse>637 Ho Oval Suite 091</Strasse>
+		<PLZ>29201</PLZ>
+		<Ort>Anthonyville</Ort>
+		<Telefon>+1-896-613-4668x092</Telefon>
+		<Email>monica.smith@johnson-robinson.com</Email>
+		<Branche>Gilbert, Smith and Mclean</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>82089</Kundennummer>
+		<Vorname>Tyler</Vorname>
+		<Nachname>Robinson</Nachname>
+		<Strasse>5781 Brown Rest Suite 219</Strasse>
+		<PLZ>24072</PLZ>
+		<Ort>North Elizabeth</Ort>
+		<Telefon>+1-501-431-1562x1242</Telefon>
+		<Email>tyler.robinson@gmail.com</Email>
+		<Branche>Morris-Johnson</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>28276</Kundennummer>
+		<Vorname>Robert</Vorname>
+		<Nachname>Cochran</Nachname>
+		<Strasse>12169 Eric Turnpike</Strasse>
+		<PLZ>69464</PLZ>
+		<Ort>Leonardton</Ort>
+		<Telefon>+1-067-383-5462</Telefon>
+		<Email>robert.cochran@moore-mitchell.net</Email>
+		<Branche>Drake, Deleon and Lane</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>11461</Kundennummer>
+		<Vorname>Matthew</Vorname>
+		<Nachname>Cherry</Nachname>
+		<Strasse>6185 Dalton Mission Apt. 898</Strasse>
+		<PLZ>64379</PLZ>
+		<Ort>West Angelaview</Ort>
+		<Telefon>+1-347-457-4586x3968</Telefon>
+		<Email>matthew.cherry@kennedy-carson.com</Email>
+		<Branche>Lawrence PLC</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>64965</Kundennummer>
+		<Vorname>Brian</Vorname>
+		<Nachname>Taylor</Nachname>
+		<Strasse>52555 Scott Turnpike Apt. 100</Strasse>
+		<PLZ>00769</PLZ>
+		<Ort>Reynoldsborough</Ort>
+		<Telefon>+1-620-464-4619x37784</Telefon>
+		<Email>brian.taylor@gutierrez.com</Email>
+		<Branche>Nelson Group</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>38809</Kundennummer>
+		<Vorname>Jason</Vorname>
+		<Nachname>Sherman</Nachname>
+		<Strasse>71729 Hubbard Lodge</Strasse>
+		<PLZ>34703</PLZ>
+		<Ort>Cordovafort</Ort>
+		<Telefon>+1-268-696-9102x94599</Telefon>
+		<Email>jason.sherman@yahoo.com</Email>
+		<Branche>Henry-Nguyen</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>11754</Kundennummer>
+		<Vorname>Martha</Vorname>
+		<Nachname>Williams</Nachname>
+		<Strasse>91739 Martin Hill</Strasse>
+		<PLZ>05787</PLZ>
+		<Ort>East Hannahport</Ort>
+		<Telefon>+1-548-773-4043</Telefon>
+		<Email>martha.williams@gmail.com</Email>
+		<Branche>Norman-Hall</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>45939</Kundennummer>
+		<Vorname>Amber</Vorname>
+		<Nachname>Young</Nachname>
+		<Strasse>56384 Collier Streets</Strasse>
+		<PLZ>28754</PLZ>
+		<Ort>Davidsonside</Ort>
+		<Telefon>+1-149-203-9055x905</Telefon>
+		<Email>amber.young@gmail.com</Email>
+		<Branche>Jones, Johnson and Craig</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>31010</Kundennummer>
+		<Vorname>Teresa</Vorname>
+		<Nachname>Simon</Nachname>
+		<Strasse>5260 Michele Point</Strasse>
+		<PLZ>34974</PLZ>
+		<Ort>East Sharon</Ort>
+		<Telefon>+1-706-489-2803x39211</Telefon>
+		<Email>teresa.simon@gmail.com</Email>
+		<Branche>Kirby LLC</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>83975</Kundennummer>
+		<Vorname>Sara</Vorname>
+		<Nachname>Ramirez</Nachname>
+		<Strasse>21960 Desiree Lane Apt. 498</Strasse>
+		<PLZ>20894</PLZ>
+		<Ort>Tracifurt</Ort>
+		<Telefon>+1-005-453-2706</Telefon>
+		<Email>sara.ramirez@hotmail.com</Email>
+		<Branche>Lee LLC</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>11368</Kundennummer>
+		<Vorname>Robert</Vorname>
+		<Nachname>Castillo</Nachname>
+		<Strasse>924 Wood Plain Apt. 690</Strasse>
+		<PLZ>65507</PLZ>
+		<Ort>New Dorothy</Ort>
+		<Telefon>+1-519-183-7704</Telefon>
+		<Email>robert.castillo@gmail.com</Email>
+		<Branche>Herman-King</Branche>
+	</Kunde>
+	<Kunde>
+		<Kundennummer>90649</Kundennummer>
+		<Vorname>Jeffrey</Vorname>
+		<Nachname>Kim</Nachname>
+		<Strasse>465 Linda Trail</Strasse>
+		<PLZ>94678</PLZ>
+		<Ort>Port Daniel</Ort>
+		<Telefon>+1-444-578-0123</Telefon>
+		<Email>jeffrey.kim@chavez.biz</Email>
+		<Branche>Jenkins, Smith and Hughes</Branche>
+	</Kunde>
+</Kundenliste>

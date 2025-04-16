@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Schema für die erste Tabelle (Ex-Mitarbeiter) -->
+    <xs:element name="ExMitarbeiterListe">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="ExMitarbeiter" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Mitarbeiternummer" type="xs:int"/>
+                            <xs:element name="Vorname" type="xs:string"/>
+                            <xs:element name="Nachname" type="xs:string"/>
+                            <xs:element name="Strasse" type="xs:string"/>
+                            <xs:element name="PLZ" type="xs:int"/>
+                            <xs:element name="Ort" type="xs:string"/>
+                            <xs:element name="Telefon" type="xs:string" minOccurs="0"/>
+                            <xs:element name="Email" type="xs:string" minOccurs="0"/>
+                            <xs:element name="Firma" type="xs:string" minOccurs="0"/> <!-- Optionales Firmenelement -->
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Schema für die zweite Tabelle (Kunden) -->
+    <xs:element name="KundenListe">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Kunde" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Kundennummer" type="xs:int"/>
+                            <xs:element name="Vorname" type="xs:string"/>
+                            <xs:element name="Nachname" type="xs:string"/>
+                            <xs:element name="Strasse" type="xs:string"/>
+                            <xs:element name="PLZ" type="xs:int"/>
+                            <xs:element name="Ort" type="xs:string"/>
+                            <xs:element name="Telefon" type="xs:string" minOccurs="0"/>
+                            <xs:element name="Email" type="xs:string" minOccurs="0"/>
+                            <xs:element name="Branche" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Schema für die dritte Tabelle (Mitarbeiter) -->
+    <xs:element name="MitarbeiterListe">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Mitarbeiter" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Mitarbeiternummer" type="xs:int"/>
+                            <xs:element name="Vorname" type="xs:string"/>
+                            <xs:element name="Nachname" type="xs:string"/>
+                            <xs:element name="Straße" type="xs:string"/>
+                            <xs:element name="PLZ" type="xs:int"/>
+                            <xs:element name="Ort" type="xs:string"/>
+                            <xs:element name="Telefon" type="xs:string" minOccurs="0"/>
+                            <xs:element name="eMail" type="xs:string" minOccurs="0"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

@@ -1,0 +1,12 @@
+<!ELEMENT Kundenliste (Kunde*)>
+        <!ATTLIST Kundenliste version CDATA #REQUIRED>
+        <!ELEMENT Kunde (Kundennummer, Vorname, Nachname, Branche, Strasse, PLZ, Ort, Telefon, Email)>
+        <!ELEMENT Kundennummer (#PCDATA)>
+        <!ELEMENT Vorname (#PCDATA)>
+        <!ELEMENT Nachname (#PCDATA)>
+        <!ELEMENT Branche (#PCDATA)>
+        <!ELEMENT Strasse (#PCDATA)>
+        <!ELEMENT PLZ (#PCDATA)>
+        <!ELEMENT Ort (#PCDATA)>
+        <!ELEMENT Telefon (#PCDATA)>
+        <!ELEMENT Email (#PCDATA)>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE ExternMitarbeiterliste SYSTEM "Externe Mitarbeiter.dtd">
+<ExternMitarbeiterliste xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+						xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance http://www.example.com/schema/ShareEmp.xsd"
+						version="1.0">
+	<ExMitarbeiter>
+		<Mitarbeiternummer>4958</Mitarbeiternummer>
+		<Firma>GreenTech Solutions</Firma>
+		<Vorname>Kendra</Vorname>
+		<Nachname>Spears</Nachname>
+		<Straße>171 Bailey Plains</Straße>
+		<PLZ>87013</PLZ>
+		<Ort>Lesliefort</Ort>
+		<Telefon>+1-539-106-9925x61502</Telefon>
+		<Email>kendra.spears@gmail.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>3095</Mitarbeiternummer>
+		<Firma>Nova Enterprises</Firma>
+		<Vorname>Monique</Vorname>
+		<Nachname>Knox</Nachname>
+		<Straße>3517 Schmidt Light Apt. 174</Straße>
+		<PLZ>64276</PLZ>
+		<Ort>Zacharyfurt</Ort>
+		<Telefon>+1-580-115-1579x645</Telefon>
+		<Email>monique.knox@yahoo.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>7413</Mitarbeiternummer>
+		<Firma>TechBridge Inc.</Firma>
+		<Vorname>Jordan</Vorname>
+		<Nachname>Williams</Nachname>
+		<Straße>9506 Michele Inlet</Straße>
+		<PLZ>02570</PLZ>
+		<Ort>East Charlesview</Ort>
+		<Telefon>+1-954-886-0868</Telefon>
+		<Email>jordan.williams@gmail.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>4959</Mitarbeiternummer>
+		<Firma>Horizon Innovations</Firma>
+		<Vorname>Carrie</Vorname>
+		<Nachname>Miller</Nachname>
+		<Straße>678 Joshua Way Apt. 435</Straße>
+		<PLZ>66468</PLZ>
+		<Ort>Port Frederick</Ort>
+		<Telefon>+1-954-886-0868</Telefon>
+		<Email>carrie.miller@hotmail.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>4128</Mitarbeiternummer>
+		<Firma>Visionary Networks</Firma>
+		<Vorname>Mike</Vorname>
+		<Nachname>Villegas</Nachname>
+		<Straße>119 Carla Vista Apt. 918</Straße>
+		<PLZ>70570</PLZ>
+		<Ort>Elizabethchester</Ort>
+		<Telefon>+1-880-627-3707x83493</Telefon>
+		<Email>mike.villegas@gmail.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>1829</Mitarbeiternummer>
+		<Firma>Delta Strategies</Firma>
+		<Vorname>Diane</Vorname>
+		<Nachname>Calderon</Nachname>
+		<Straße>7792 Bowman Ramp Apt. 971</Straße>
+		<PLZ>56154</PLZ>
+		<Ort>West Diana</Ort>
+		<Telefon>+49-154-825-98</Telefon>
+		<Email>diane.calderon@yahoo.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>8505</Mitarbeiternummer>
+		<Firma>Apex Solutions</Firma>
+		<Vorname>Daniel</Vorname>
+		<Nachname>Clark</Nachname>
+		<Straße>59891 Steve Ports</Straße>
+		<PLZ>10529</PLZ>
+		<Ort>New Jenniferburgh</Ort>
+		<Telefon>+1-337-430-7827x1355</Telefon>
+		<Email>daniel.clark@campbell.net</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>6266</Mitarbeiternummer>
+		<Firma>Ignite Tech</Firma>
+		<Vorname>Tiffany</Vorname>
+		<Nachname>Williams</Nachname>
+		<Straße>717 Richards Loaf</Straße>
+		<PLZ>83275</PLZ>
+		<Ort>Guerreroport</Ort>
+		<Telefon>+1-088-269-6010x656</Telefon>
+		<Email>tiffany.williams@gmail.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>7128</Mitarbeiternummer>
+		<Firma>Vertex Technologies</Firma>
+		<Vorname>Mathew</Vorname>
+		<Nachname>Wheeler</Nachname>
+		<Straße>5303 Chavez Spring Suite 605</Straße>
+		<PLZ>55385</PLZ>
+		<Ort>Port Kyle</Ort>
+		<Telefon>+49-165-8745</Telefon>
+		<Email>mathew.wheeler@neal.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>1164</Mitarbeiternummer>
+		<Firma>Prime Innovators</Firma>
+		<Vorname>Jared</Vorname>
+		<Nachname>Powell</Nachname>
+		<Straße>54212 Alyssa Wall Suite 603</Straße>
+		<PLZ>03285</PLZ>
+		<Ort>New Michelleton</Ort>
+		<Telefon>+1-464-777-5678x56000</Telefon>
+		<Email>jared.powell@gmail.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>5120</Mitarbeiternummer>
+		<Firma>CoreTech Solutions</Firma>
+		<Vorname>Steve</Vorname>
+		<Nachname>Yoder</Nachname>
+		<Straße>4999 Green Station</Straße>
+		<PLZ>20856</PLZ>
+		<Ort>North Devin</Ort>
+		<Telefon>+1-669-566-5857</Telefon>
+		<Email>steve.yoder@burke-dunn.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>3286</Mitarbeiternummer>
+		<Firma>Matrix Enterprises</Firma>
+		<Vorname>Gary</Vorname>
+		<Nachname>Macdonald</Nachname>
+		<Straße>947 Robert Bypass</Straße>
+		<PLZ>09262</PLZ>
+		<Ort>Kimberlyland</Ort>
+		<Telefon>+49-299-818-0899x605</Telefon>
+		<Email>gary.macdonald@young.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>6975</Mitarbeiternummer>
+		<Firma>CloudWave Solutions</Firma>
+		<Vorname>Jennifer</Vorname>
+		<Nachname>Murphy</Nachname>
+		<Straße>698 Gregory Ports</Straße>
+		<PLZ>78900</PLZ>
+		<Ort>New Brianstad</Ort>
+		<Telefon>+49-156-8942</Telefon>
+		<Email>jennifer.murphy@yahoo.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>9183</Mitarbeiternummer>
+		<Firma>Nexus Industries</Firma>
+		<Vorname>Abigail</Vorname>
+		<Nachname>Mcclure</Nachname>
+		<Straße>7589 Clay Harbor Apt. 349</Straße>
+		<PLZ>41934</PLZ>
+		<Ort>Port Andrea</Ort>
+		<Telefon>+1-757-884-8843x60183</Telefon>
+		<Email>abigail.mcclure@gmail.com</Email>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<Mitarbeiternummer>5124</Mitarbeiternummer>
+		<Firma>Quantum Solutions</Firma>
+		<Vorname>Elizabeth</Vorname>
+		<Nachname>Braun</Nachname>
+		<Straße>1767 Shepard Lane</Straße>
+		<PLZ>28116</PLZ>
+		<Ort>North Jeanne</Ort>
+		<Telefon>+1-596-683-6833x784</Telefon>
+		<Email>elizabeth.braun@yahoo.com</Email>
+	</ExMitarbeiter>
+</ExternMitarbeiterliste>

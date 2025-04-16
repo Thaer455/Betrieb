@@ -1,0 +1,13 @@
+<!ELEMENT ExternMitarbeiterliste (ExMitarbeiter*)>
+        <!ATTLIST ExternMitarbeiterliste version CDATA #REQUIRED>
+
+        <!ELEMENT ExMitarbeiter (Mitarbeiternummer, Firma, Vorname, Nachname, Straße, PLZ, Ort, Telefon, Email)>
+        <!ELEMENT Mitarbeiternummer (#PCDATA)>
+        <!ELEMENT Firma (#PCDATA)>
+        <!ELEMENT Vorname (#PCDATA)>
+        <!ELEMENT Nachname (#PCDATA)>
+        <!ELEMENT Straße (#PCDATA)>
+        <!ELEMENT PLZ (#PCDATA)>
+        <!ELEMENT Ort (#PCDATA)>
+        <!ELEMENT Telefon (#PCDATA)>
+        <!ELEMENT Email (#PCDATA)>
