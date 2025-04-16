@@ -1,0 +1,3 @@
+Alle Java Dateien sind in src Folder
+Alle csv Dateien sind in data Folder
+:)  
